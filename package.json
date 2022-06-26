@@ -1,0 +1,17 @@
+{
+  "name": "rimraf-promise2",
+  "version": "3.0.2",
+  "description": "Make rimraf promise",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabeuluci/rimraf-promise2.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "rimraf": "^3.0.0"
+  }
+}
